@@ -6,9 +6,9 @@
 **请选手务必关注自己的 GitHub 注册邮箱，投票结果将通过该邮箱通知。**
 
 ## 参赛说明
-* _**【注意】在创建 Issue 之前，选手必须首先在[大赛主页]()报名，并在创建 Issue 时根据模板在团队成员介绍中提供天池昵称，否则可能造成参赛项目投票结果无效。**_
+* _**【注意】在创建 Issue 之前，选手必须首先在[大赛主页](https://tianchi.aliyun.com/competition/entrance/531936/introduction)报名，并在创建 Issue 时根据模板在团队成员介绍中提供天池昵称，否则可能造成参赛项目投票结果无效。**_
 * 请参赛选手根据 Issue 创建模板发布参赛项目以参与公开投票。
-* Issue 发布后选手可以通过在天池讨论区或 Issue 的评论区解答大家的问题，并为自己的项目拉票。
+* Issue 发布后选手可以在[天池讨论区](https://tianchi.aliyun.com/competition/entrance/531936/forum)或 Issue 的评论区解答大家的问题，并为自己的项目拉票。
 
 ## 投票说明
 * 本次 Hackathon 项目的投票面向所有 GitHub 用户开放，投票者必须拥有 GitHub ID。
